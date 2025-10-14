@@ -1,0 +1,17 @@
+{
+  "hash": "0d4fee0fcd752cd83863135a6d394878",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"line Slope Graph\"\nformat: html\neditor: visual\n---\n\n\n\n\n\ntext text text\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](3_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "3_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

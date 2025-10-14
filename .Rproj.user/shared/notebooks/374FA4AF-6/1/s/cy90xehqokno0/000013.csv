@@ -1,0 +1,7 @@
+"0",""
+"0",""
+"0","flows <- readr::read_csv(""flows.csv"") |>"
+"0","  mutate("
+"0","    source_2020 = factor(source_2020, levels = c(""Trump2020"",""Biden2020"",""Nonvoter2020"")),"
+"0","    to_2024     = factor(to_2024, levels = c(""Harris"",""Trump"",""Other"",""DidNotVote""))"
+"0","  )"

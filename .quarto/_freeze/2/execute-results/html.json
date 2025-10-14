@@ -1,0 +1,17 @@
+{
+  "hash": "84094534bded5df7421b0bc63d0ee2bf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Cluster Bar Chart\"\nformat: html\neditor: visual\n---\n\n\n\n\n\ntext text text\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](2_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
