@@ -110,6 +110,10 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./6.html"> 
+<span class="menu-text">Findings</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./7.html"> 
 <span class="menu-text">Peak at code</span></a>
   </li>  
 </ul>
@@ -130,7 +134,11 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#redesign-midterm-project" id="toc-redesign-midterm-project" class="nav-link active" data-scroll-target="#redesign-midterm-project">Redesign Midterm Project</a>
   <ul class="collapse">
+  <li><a href="#data-setup" id="toc-data-setup" class="nav-link" data-scroll-target="#data-setup">Data &amp; Setup</a>
+  <ul class="collapse">
   <li><a href="#rationale-for-redesign" id="toc-rationale-for-redesign" class="nav-link" data-scroll-target="#rationale-for-redesign">Rationale for Redesign</a></li>
+  </ul></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -160,7 +168,19 @@ ul.task-list li input[type="checkbox"] {
 <section id="redesign-midterm-project" class="level1">
 <h1>Redesign Midterm Project</h1>
 <p><em>By Preston Moskowitz and Yang Zhang</em></p>
-<p>We reworked an existing visualization using the principles we learned in class to enhance clarity and effectiveness. The original graph is shown below.</p>
+<p>This page redesigns a Sankey-style flow from Pew Research about how <strong>2020 voters and nonvoters behaved in 2024</strong>.<br>
+The original is engaging but hard for <strong>precise comparison</strong>: long eye travel and overlapping ribbons make it difficult to judge <strong>retention</strong>, <strong>switching</strong>, and <strong>drop-off</strong>. We applied principles learned in class to enhance this visualizations clarity and effectiveness.</p>
+<blockquote class="blockquote">
+<p><strong>Data note:</strong> No raw download was provided. In line with the assignment guideline (“Exact data is not required”), I <strong>reconstructed a small table</strong> from the published figure with clearly labeled percentages.</p>
+</blockquote>
+<section id="data-setup" class="level2">
+<h2 class="anchored" data-anchor-id="data-setup">Data &amp; Setup</h2>
+<p>Between 2020 and 2024, most voters remained consistent in their choices,<br>
+but about one-quarter changed their behavior. Trump’s supporters were<br>
+more likely than Biden’s to turn out again in 2024, and a greater share<br>
+of 2020 nonvoters who participated in 2024 backed Trump. These shifts in<br>
+turnout and vote choice played a key role in Trump’s victory.</p>
+<p>Here is the original visualization we are redesigning:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/original.jpg" class="img-fluid figure-img"></p>
@@ -176,7 +196,13 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Convoluted labeling of voter groups</p></li>
 <li><p>Repetition of information</p></li>
 </ul>
-<p><a href="https://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/">Original Visualization Source</a></p>
+</section>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>Pew Research Center. (2025, June 26). <em>How changes in turnout and vote choice powered Trump’s victory in 2024</em>.<br>
+<a href="https://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/" class="uri">https://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/</a></p>
+<p><a href="https://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/">Source Hyperink</a></p>
 
 
 </section>
