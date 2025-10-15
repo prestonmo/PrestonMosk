@@ -1,8 +1,8 @@
 {
-  "hash": "84094534bded5df7421b0bc63d0ee2bf",
+  "hash": "e88499174fe80cabe5cd95043727fe84",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Cluster Bar Chart\"\nformat: html\neditor: visual\n---\n\n\n\n\n\ntext text text\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](2_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Cluster Bar Chart\"\nformat: html\neditor: visual\n---\n\n\n\n\n\n### Intent\n\nTo display final election results in a more palatable and accessible format by simplifying the presentation and enabling direct comparison. The chart highlights support for each party and clearly illustrates how vote shares shift across parties and between election years.\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](2_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\n\n\n### Why it improves the original\n\n\\- Explicitly shows the results of each years election results.  \n\n\\- Great visual comparison\n\n\\- Ease of understanding\n\n-Cuts out the speculation of voter intentions\n\n-Simplified categories\n",
     "supporting": [
       "2_files"
     ],

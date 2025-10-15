@@ -1,8 +1,8 @@
 {
-  "hash": "0d4fee0fcd752cd83863135a6d394878",
+  "hash": "7db62847df8e4b3306910e82a5b53f86",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"line Slope Graph\"\nformat: html\neditor: visual\n---\n\n\n\n\n\ntext text text\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](3_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"line Slope Graph\"\nformat: html\neditor: visual\n---\n\n\n\n\n### Intent\n\nTo illustrate voter movement in an aesthetically pleasing and accessible format. The chart highlights how vote shares shifted between 2020 and 2024, using clean visual lines to emphasize directional trends and party momentum over time.\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](3_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\n\n### Why it improves the original\n\n\\- Simplfies original visualization easy to interpret\n\n\\- Displays trend\n\n-You cant tell exactly what changed between the two years\n\n\\- Easier to quantify differences between Trump and Biden cohorts\n",
     "supporting": [
       "3_files"
     ],

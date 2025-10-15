@@ -1,8 +1,8 @@
 {
-  "hash": "5e265013fcc22e1e614b7bbf555a0f66",
+  "hash": "041386dd31cf0bb6cf2960661edd0bb7",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"100% Stacked Bar Chart\"\nformat: html\neditor: visual\n---\n\n\n\n\ntext text text\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](5_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"100% Stacked Bar Chart\"\nformat: html\neditor: visual\n---\n\n\n\n\n### Intent\n\nKeep the idea of “distribution within each 2020 cohort” but use **position-along-a-scale**.\\\nEach bar sums to 100%, so **Biden vs Trump cohorts** are immediately comparable.\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](5_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\n\n### Why it improves the original\n\n-   Precise reading via common baselines\n\n-   Lower cognitive load (no crossing flows)\n\n-   Explicit 100% normalization\n",
     "supporting": [
       "5_files"
     ],
