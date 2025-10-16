@@ -37,6 +37,12 @@ Here is the original visualization we are redesigning:
 
 -   Repetition of information
 
+    ## Video Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iNTL3yPQV1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+</iframe>
+
 ## References
 
 Pew Research Center. (2025, June 26). *How changes in turnout and vote choice powered Trump’s victory in 2024*.\

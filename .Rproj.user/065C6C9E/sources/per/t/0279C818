@@ -16,8 +16,8 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2147:544",
-        "cursorPosition": "53,0",
+        "rmdVisualModeLocation": "64:0",
+        "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
@@ -25,7 +25,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760493583418,
+    "last_content_update": 1760641555240,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -4,7 +4,7 @@
     "href": "2.html",
     "title": "Cluster Bar Chart",
     "section": "",
-    "text": "Intent\nTo display final election results in a more palatable and accessible format by simplifying the presentation and enabling direct comparison. The chart highlights support for each party and clearly illustrates how vote shares shift across parties and between election years.\n\n\n\n\n\n\n\n\n\n\n\nWhy it improves the original\n- Explicitly shows the results of each years election results.  \n- Great visual comparison\n- Ease of understanding\n-Cuts out the speculation of voter intentions\n-Simplified categories"
+    "text": "Intent\nTo display final election results in a more palatable and accessible format by simplifying the presentation and enabling direct comparison. The chart highlights support for each party and clearly illustrates how vote shares shift across parties and between election years.\n\n\n\n\n\n\n\n\n\n\n\nWhy it improves the original\n- Framing and color choice\n-Explicitly shows the results of each years election results.  \n- Great visual comparison\n- Ease of understanding\n-Cuts out the speculation of voter intentions\n-Simplified categories"
   },
   {
     "objectID": "midterm.html",
@@ -25,12 +25,12 @@
     "href": "1.html",
     "title": "Home",
     "section": "",
-    "text": "By Preston Moskowitz and Yang Zhang\nThis page redesigns a Sankey-style flow from Pew Research about how 2020 voters and nonvoters behaved in 2024.\nThe original is engaging but hard for precise comparison: long eye travel and overlapping ribbons make it difficult to judge retention, switching, and drop-off. We applied principles learned in class to enhance this visualizations clarity and effectiveness.\n\nData note: No raw download was provided. In line with the assignment guideline (“Exact data is not required”), I reconstructed a small table from the published figure with clearly labeled percentages.\n\n\n\nBetween 2020 and 2024, most voters remained consistent in their choices,\nbut about one-quarter changed their behavior. Trump’s supporters were\nmore likely than Biden’s to turn out again in 2024, and a greater share\nof 2020 nonvoters who participated in 2024 backed Trump. These shifts in\nturnout and vote choice played a key role in Trump’s victory.\nHere is the original visualization we are redesigning:\n\n\n\nOriginal Visualization From Pew\n\n\n\n\n\nThis graph is convoluted, It’s hard to tell whats going on\nConfusing flowing variables\nWhy use three bars when you could use one?\nConvoluted labeling of voter groups\nRepetition of information\n\n\n\n\n\nPew Research Center. (2025, June 26). How changes in turnout and vote choice powered Trump’s victory in 2024.\nhttps://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/\nSource Hyperink"
+    "text": "By Preston Moskowitz and Yang Zhang\nThis page redesigns a Sankey-style flow from Pew Research about how 2020 voters and nonvoters behaved in 2024.\nThe original is engaging but hard for precise comparison: long eye travel and overlapping ribbons make it difficult to judge retention, switching, and drop-off. We applied principles learned in class to enhance this visualizations clarity and effectiveness.\n\nData note: No raw download was provided. In line with the assignment guideline (“Exact data is not required”), I reconstructed a small table from the published figure with clearly labeled percentages.\n\n\n\nBetween 2020 and 2024, most voters remained consistent in their choices,\nbut about one-quarter changed their behavior. Trump’s supporters were\nmore likely than Biden’s to turn out again in 2024, and a greater share\nof 2020 nonvoters who participated in 2024 backed Trump. These shifts in\nturnout and vote choice played a key role in Trump’s victory.\nHere is the original visualization we are redesigning:\n\n\n\nOriginal Visualization From Pew\n\n\n\n\n\nThis graph is complicated, It’s hard to tell whats going on\nConfusing flowing variables\nWhy use three bars when you could use one?\nConvoluted labeling of voter groups\nRepetition of information\n\n\n\n\n\n\n\n\nPew Research Center. (2025, June 26). How changes in turnout and vote choice powered Trump’s victory in 2024.\nhttps://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/\nSource Hyperink"
   },
   {
     "objectID": "3.html",
     "href": "3.html",
-    "title": "line Slope Graph",
+    "title": "Line Slope Graph",
     "section": "",
     "text": "Intent\nTo illustrate voter movement in an aesthetically pleasing and accessible format. The chart highlights how vote shares shifted between 2020 and 2024, using clean visual lines to emphasize directional trends and party momentum over time.\n\n\n\n\n\n\n\n\n\n\n\nWhy it improves the original\n- Simplfies original visualization easy to interpret\n- Displays trend\n-You cant tell exactly what changed between the two years\n- Easier to quantify differences between Trump and Biden cohorts"
   },
@@ -88,7 +88,7 @@
     "href": "1.html#data-setup",
     "title": "Home",
     "section": "",
-    "text": "Between 2020 and 2024, most voters remained consistent in their choices,\nbut about one-quarter changed their behavior. Trump’s supporters were\nmore likely than Biden’s to turn out again in 2024, and a greater share\nof 2020 nonvoters who participated in 2024 backed Trump. These shifts in\nturnout and vote choice played a key role in Trump’s victory.\nHere is the original visualization we are redesigning:\n\n\n\nOriginal Visualization From Pew\n\n\n\n\n\nThis graph is convoluted, It’s hard to tell whats going on\nConfusing flowing variables\nWhy use three bars when you could use one?\nConvoluted labeling of voter groups\nRepetition of information"
+    "text": "Between 2020 and 2024, most voters remained consistent in their choices,\nbut about one-quarter changed their behavior. Trump’s supporters were\nmore likely than Biden’s to turn out again in 2024, and a greater share\nof 2020 nonvoters who participated in 2024 backed Trump. These shifts in\nturnout and vote choice played a key role in Trump’s victory.\nHere is the original visualization we are redesigning:\n\n\n\nOriginal Visualization From Pew\n\n\n\n\n\nThis graph is complicated, It’s hard to tell whats going on\nConfusing flowing variables\nWhy use three bars when you could use one?\nConvoluted labeling of voter groups\nRepetition of information"
   },
   {
     "objectID": "1.html#references",

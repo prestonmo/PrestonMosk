@@ -3,7 +3,7 @@
     "path": "C:/Users/Preston/Desktop/stat/WEB/PrestonMosk/1.qmd",
     "project_path": "1.qmd",
     "type": "quarto_markdown",
-    "hash": "525184005",
+    "hash": "1443250916",
     "contents": "",
     "dirty": false,
     "created": 1760493133430.0,
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "27,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "1258:1580"
+        "rmdVisualModeLocation": "1649:1808.800048828125"
     },
     "folds": "",
-    "lastKnownWriteTime": 1760563163,
+    "lastKnownWriteTime": 1760641471,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1760563163006,
+    "last_content_update": 1760641471628,
     "read_only": false,
     "read_only_alternatives": []
 }

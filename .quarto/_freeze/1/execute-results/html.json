@@ -1,0 +1,17 @@
+{
+  "hash": "211031d13050ba1106941824bedf69bf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Home\"\nformat: html\neditor: visual\n---\n\n\n\n\n\n\n\n\n\n\n\n\n# Redesign Midterm Project\n\n*By Preston Moskowitz and Yang Zhang*\n\nThis page redesigns a Sankey-style flow from Pew Research about how **2020 voters and nonvoters behaved in 2024**.\\\nThe original is engaging but hard for **precise comparison**: long eye travel and overlapping ribbons make it difficult to judge **retention**, **switching**, and **drop-off**. We applied principles learned in class to enhance this visualizations clarity and effectiveness.\n\n> **Data note:** No raw download was provided. In line with the assignment guideline (“Exact data is not required”), I **reconstructed a small table** from the published figure with clearly labeled percentages.\n\n## Data & Setup\n\nBetween 2020 and 2024, most voters remained consistent in their choices,\\\nbut about one-quarter changed their behavior. Trump’s supporters were\\\nmore likely than Biden’s to turn out again in 2024, and a greater share\\\nof 2020 nonvoters who participated in 2024 backed Trump. These shifts in\\\nturnout and vote choice played a key role in Trump’s victory.\n\nHere is the original visualization we are redesigning:\n\n![Original Visualization From Pew](images/original.jpg)\n\n### Rationale for Redesign\n\n-   This graph is complicated, It's hard to tell whats going on\n\n-   Confusing flowing variables\n\n-   Why use three bars when you could use one?\n\n-   Convoluted labeling of voter groups\n\n-   Repetition of information\n## Video Presentation\n\n\n\n\n\n\n\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n{{< embed url=\"https://youtu.be/iNTL3yPQV1o\" >}}\n```\n\n\n:::\n:::\n\n\n\n\n\n\n\n\n\n\n\n\n## References\n\nPew Research Center. (2025, June 26). *How changes in turnout and vote choice powered Trump’s victory in 2024*.\\\n<https://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/>\n\n[Source Hyperink](https://www.pewresearch.org/politics/feature/how-changes-in-turnout-and-vote-choice-powered-trumps-victory-in-2024/)\n",
+    "supporting": [
+      "1_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
